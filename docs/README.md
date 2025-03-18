@@ -1,5 +1,5 @@
-# SOA_HW1_MD
-Home Assignment 1 Service-oriented architecture (SOA)
+# SOA_HW_MD
+Home Assignments Service-oriented architecture (SOA)
 
 Name: Dibé Melissa
 Group: БПАД221
